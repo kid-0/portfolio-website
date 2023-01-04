@@ -135,7 +135,7 @@ button:focus,
 .social-icon:hover,
 .social-icon:focus {
     cursor: pointer;
-    opacity: 0.8;
+    opacity: 0.6;
 }
 
 .navigation-list__item--active {
